@@ -59,23 +59,31 @@ Bibliographie Intermédiaire
 [1] D. Helbing et H. Z. Al-Abideen, Dynamics of crowd disasters: An empirical study, Phys. Rev.
 E, vol. 75, article n°046109, 2007. (référencée dans un article de magazine spécialisé)
 
+
 [2] M. Moussaïd et al., The amplification of risk in experimental diffusion chains, PNAS, vol. 112(18),
 pp. 5631-5636, 2015.(référencée dans un article de magazine spécialisé)
+
 
 [3] S. Motsch et al., Modeling crowd dynamics through coarse-grained data analysis, Math. Biosci. Eng.,
 vol. 15(6), pp. 1271-1290, 2018(référencée dans un article de magazine spécialisé)
 
+
 [4] M. Moussaïd « Moins la foule est dense, plus elle est imprévisible » 25 juin 2019| POUR LA SCIENCE N° 501 (recherche google)
+
 
 [5] C.Dupont, L.Tob´ıas, B.Luvison Crowd-11: A Dataset for Fine Grained Crowd Behaviour Analysis,
 CEA, LIST, Vision and Content Engineering Laboratory (référencée dans un article de magazine spécialisé)
+
 
 [6] Samuel Lemercier. Simulation du comportement de suivi dans une foule de piétons à travers
 l’expérience, l’analyse et la modélisation P.11/12. Modélisation et simulation. Université Rennes 1,
 2012. Français. ffNNT : 2012REN1S028ff. fftel-00724072f (scholar)
 
+
 [7] S. D. REICHER, ‘The Battle of Westminster’: developing the social identity model of crowd
 behaviour in order to explain the initiation and development of collective conflict, 1996. (scholar)
 
+
 [8] D. Helbing, I.J. Farkas, P. Molnar, T. Vicsek, Simulation of pedestrian crowds in normal and
 evacuation situations, 2002. (scholar)
+
